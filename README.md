@@ -2,15 +2,25 @@
 Nova-Toolbox is a cluster of useful tools for a pentester made in Python.
 
 -> Tools included: <-
+
 1.'Nmap'
+
 2.'Windows Payload'
+
 3.'Android Payload'
+
 4.'Phone Number Scan'
+
 5.'Social Media Scan'
+
 6.'SMS Bomber'
+
 7.'NetCat'
+
 8.'Hydra'
+
 9.'SET'
+
 10.'Nikto'
 
 
