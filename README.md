@@ -22,4 +22,4 @@ O Nova Toolbox é uma caixa de ferramentas feita totalmente em python, que visa 
 
 __AVISO__
 
-Não somos responsáveis pelo uso indevíduo destas ferramentas, pois foram produzidas com o intuíto Educacional.
+Não somos responsáveis pelo uso indevíduo destas ferramentas, pois foram produzidas com o intuito Educacional.
