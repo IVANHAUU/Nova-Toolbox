@@ -1,29 +1,25 @@
-<img src="1700222442162.png" alt="">
-Nova-Toolbox is a cluster of useful tools for a pentester made in Python.
+# Nova Toolbox
 
--> Tools included: <-
-
-1.'Nmap'
-
-2.'Windows Payload'
-
-3.'Android Payload'
-
-4.'Phone Number Scan'
-
-5.'Social Media Scan'
-
-6.'SMS Bomber'
-
-7.'NetCat'
-
-8.'Hydra'
-
-9.'SET'
-
-10.'Nikto'
+O Nova Toolbox é uma caixa de ferramentas feita totalmente em python, que visa auxiliar pentesters em sua jornada.
+<img src="1700222442162.png" alt="novatoolboxlogo">
 
 
-__Disclaimer__
+-> Ferramentas incluídas: <-
 
-I'm new to programming in python, there may be some problems with the code, any bugs or improvements please report.
+1. BruteForce em URL
+2. BruteForce em Subdomínios
+3. Consulta de IP/CPF
+4. Consulta de Número (+55/Brasil)
+5. Consulta de Sistema Operacional
+6. Consulta de Site
+7. Ataque DDoS
+8. Mudança de Endereço MAC
+9. Nmap
+10. Scan de Portas (LAN)
+11. Request Port Consult (RPC)
+12. Shell Reverse
+
+
+__AVISO__
+
+Não somos responsáveis pelo uso indevíduo destas ferramentas, pois foram produzidas com o intuíto Educacional.
